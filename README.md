@@ -1,6 +1,6 @@
 # avl-live-stub
 
-Public issue tracker for **AVL Live**.
+Public issue tracker for **[AVL Live](https://avl.live/)**.
 
 The source code isn't in this repo. It's here so anyone can report bugs, request features, or ask questions.
 
